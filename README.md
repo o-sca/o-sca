@@ -7,6 +7,7 @@ Most my time is spent working on the blockchain development and web automations.
 Programming Languages:
 - Solidity
 - Javascript
+- Typescript
 - Python
 - SQL
 
